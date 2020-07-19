@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaDigital-API", "ContaDigital-API\ContaDigital-API.csproj", "{8EE322ED-5F56-4D6C-A8A1-A7CC077ED239}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaDigital-API", "ContaDigital-API\ContaDigital-API.csproj", "{8EE322ED-5F56-4D6C-A8A1-A7CC077ED239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaDigital-Test", "ContaDigital-Test\ContaDigital-Test.csproj", "{204FE0F0-04DF-4052-92CE-A06BF3504EEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaDigital-Infra", "ContaDigital-Infra\ContaDigital-Infra.csproj", "{01399346-6951-4898-B4B6-874CA66C7696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaDigital-Infra", "ContaDigital-Infra\ContaDigital-Infra.csproj", "{01399346-6951-4898-B4B6-874CA66C7696}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaDigital-Teste", "ContaDigital-Teste\ContaDigital-Teste.csproj", "{FF223B93-1BA8-4F21-9C7B-91A855FA727D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaDigital-Teste", "ContaDigital-Teste\ContaDigital-Teste.csproj", "{FF223B93-1BA8-4F21-9C7B-91A855FA727D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		{8EE322ED-5F56-4D6C-A8A1-A7CC077ED239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EE322ED-5F56-4D6C-A8A1-A7CC077ED239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EE322ED-5F56-4D6C-A8A1-A7CC077ED239}.Release|Any CPU.Build.0 = Release|Any CPU
-		{204FE0F0-04DF-4052-92CE-A06BF3504EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{204FE0F0-04DF-4052-92CE-A06BF3504EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{204FE0F0-04DF-4052-92CE-A06BF3504EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{204FE0F0-04DF-4052-92CE-A06BF3504EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{01399346-6951-4898-B4B6-874CA66C7696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01399346-6951-4898-B4B6-874CA66C7696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01399346-6951-4898-B4B6-874CA66C7696}.Release|Any CPU.ActiveCfg = Release|Any CPU

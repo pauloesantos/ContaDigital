@@ -7,3 +7,15 @@ C:\Projetos\ContaDigital\ContaDigital-API\ContaDigital-Infra\obj\Debug\netcoreap
 C:\Projetos\ContaDigital\ContaDigital-API\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.csproj.CoreCompileInputs.cache
 C:\Projetos\ContaDigital\ContaDigital-API\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.dll
 C:\Projetos\ContaDigital\ContaDigital-API\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.pdb
+C:\Projetos\ContaDigital\ContaDigital-Infra\bin\Debug\netcoreapp3.1\ContaDigital-Infra.deps.json
+C:\Projetos\ContaDigital\ContaDigital-Infra\bin\Debug\netcoreapp3.1\ContaDigital-Infra.dll
+C:\Projetos\ContaDigital\ContaDigital-Infra\bin\Debug\netcoreapp3.1\ContaDigital-Infra.pdb
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.csprojAssemblyReference.cache
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.AssemblyInfoInputs.cache
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.AssemblyInfo.cs
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.dll
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.pdb
+C:\Projetos\ContaDigital\ContaDigital-Infra\bin\Debug\netcoreapp3.1\ContaDigital-Infra.runtimeconfig.json
+C:\Projetos\ContaDigital\ContaDigital-Infra\bin\Debug\netcoreapp3.1\ContaDigital-Infra.runtimeconfig.dev.json
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.genruntimeconfig.cache
+C:\Projetos\ContaDigital\ContaDigital-Infra\obj\Debug\netcoreapp3.1\ContaDigital-Infra.csproj.CoreCompileInputs.cache
